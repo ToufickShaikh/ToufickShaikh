@@ -1,13 +1,6 @@
-- 👋 Hi, I’m Toufick
-- 👀 I’m interested in Web Dev...
-- 🌱 I’m currently learning Css ...
-- 💞️ I’m looking to collaborate on nothing ...
-- 📫 How to reach me You Cant ...
-Joking.
-<!---
 # Me Toufick Shaikh - Web Developer and Picosack Developer
 
-![Profile Picture](https://example.com/toufick_shaikh_profile.jpg)
+![Profile Picture](https://shaikhtoolsanddies.com/profile.jpg)
 
 ## About Me
 
@@ -31,9 +24,9 @@ As a web developer and student, my goals are to continue growing and contributin
 
 - **GitHub:** [github.com/toufickshaikh](https://github.com/toufickshaikh)
 - **LinkedIn:** [linkedin.com/in/toufickshaikh](https://www.linkedin.com/in/toufickshaikh)
+- **Instagram:** [@digital_hokage](https://www.instagram.com/digital_hokage/)
 
 Feel free to reach out to me if you have any questions, want to collaborate on web development projects, or wish to know more about Picosack. Let's build the web together!
 
 ---
-This `README.md` introduces Me Toufick Shaikh as a web developer and the developer of Picosack. It highlights their journey in web development, their passion for creating web-based solutions, and their goals for the future. Remember to include relevant contact information and social media links to foster communication and collaboration. Happy coding!
---->
+This updated `README.md` includes your Instagram handle (@digital_hokage) to provide users with another means to connect with you. The Instagram link allows them to explore your work and engage with your web development journey. Keep promoting your projects and expertise on social media! Happy coding!
