@@ -1,4 +1,4 @@
-# Me Toufick Shaikh - Web Developer and Picosack Developer
+# Toufick Shaikh - Web Developer 
 
 ![Profile Picture](https://shaikhtoolsanddies.com/profile.jpg)
 
