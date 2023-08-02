@@ -27,6 +27,3 @@ As a web developer and student, my goals are to continue growing and contributin
 - **Instagram:** [@digital_hokage](https://www.instagram.com/digital_hokage/)
 
 Feel free to reach out to me if you have any questions, want to collaborate on web development projects, or wish to know more about Picosack. Let's build the web together!
-
----
-This updated `README.md` includes your Instagram handle (@digital_hokage) to provide users with another means to connect with you. The Instagram link allows them to explore your work and engage with your web development journey. Keep promoting your projects and expertise on social media! Happy coding!
