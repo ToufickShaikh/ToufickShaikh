@@ -1,6 +1,6 @@
 # Toufick Shaikh - Web Developer 
 
-![Profile Picture](https://shaikhtoolsanddies.com/profile.jpg)
+
 
 ## About Me
 
