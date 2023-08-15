@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hey there, I'm Toufick Shaikh</h1>
 
 <p align="center">
-  A web craftsman camouflaging code intricacies and creator of Picosack—unleashing digital magic on ESP8266 IoT devices. ✨
+  A 🕵️‍♂️ web craftsman 🎨 camouflaging code intricacies and creator of Picosack—unleashing digital magic on ESP8266 IoT devices. ✨
 </p>
 
 <p align="center">
   🎓 Stealthily studying at Madarsa I Azam, Mount Road<br>
-  🚀 Exploring web realms and engineering IoT wonders<br>
+  🌟 A 17-year-old explorer of web realms and engineering IoT wonders<br>
 </p>
 
 <p align="center">
@@ -17,11 +17,16 @@
 
 <h2>About Me</h2>
 
-Greetings, fellow traveler of the digital covert! I'm Toufick Shaikh, a web sorcerer shrouding immersive online experiences. My journey began with HTML, CSS, and JavaScript, evolving into the concealed realm of backend enchantments.
+Greetings, fellow traveler of the digital covert! I'm Toufick Shaikh, a 🧙‍♂️ web sorcerer shrouding immersive online experiences. My journey began with HTML, CSS, and JavaScript, evolving into the concealed realm of backend enchantments.
 
 <h2>Unveiling Picosack</h2>
 
-Enter Picosack—a versatile web enchanter, meticulously designed for ESP8266 microcontrollers. It's your key to conjuring web-enabled IoT marvels while maintaining an aura of secrecy.
+Enter Picosack—a versatile 🪄 web enchanter, meticulously designed for ESP8266 microcontrollers. It's your key to conjuring web-enabled IoT marvels while maintaining an aura of secrecy.
+
+<h2>😄 Fun Facts about Me</h2>
+
+- I'm suffering from thalassemia major, a severe form of inherited blood disorder that causes me to have less hemoglobin than normal. I need regular blood transfusions and iron chelation therapy to manage my condition.
+- I have failed in many subjects like physics and maths, but I don't let that stop me from pursuing my dreams.
 
 <h2>My GitHub Journey</h2>
 
@@ -29,7 +34,7 @@ Dive into my cryptic GitHub realm, where I'm conjuring repositories, crafting pu
 
 <h2>Summon Me</h2>
 
-Let's connect and conjure wonders in the shadows! Feel free to reach out on my encrypted social channels or send a message at toufickshaikh@yahoo.com. Ready to embark on epic digital stealth missions!
+Let's connect and conjure wonders in the shadows! Reach out on my encrypted social channels or send a message at toufickshaikh@yahoo.com. Ready to embark on epic digital stealth missions!
 
 <p align="center">
   <a href="https://github.com/Toufick190"><img src="https://img.shields.io/github/followers/Toufick190?label=Follow&style=social" alt="GitHub Follow"></a>
