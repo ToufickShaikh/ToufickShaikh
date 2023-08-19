@@ -7,6 +7,7 @@
 <p align="center">
   🎓 Stealthily studying at Madarsa I Azam, Mount Road<br>
   🌟 A 17-year-old explorer of web realms and engineering IoT wonders<br>
+  💼 CEO of El Masculino and Developer at Shaikh Tools And Dies
 </p>
 
 <p align="center">
