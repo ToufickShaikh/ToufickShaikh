@@ -38,7 +38,7 @@ Dive into my cryptic GitHub realm, where I'm conjuring repositories, crafting pu
 Let's connect and conjure wonders in the shadows! Reach out on my encrypted social channels or send a message at toufickshaikh@yahoo.com. Ready to embark on epic digital stealth missions!
 
 <p align="center">
-  <a href="https://github.com/ToufickShaikh"><img src="https://img.shields.io/github/followers/Toufick190?label=Follow&style=social" alt="GitHub Follow"></a>
+  <a href="https://github.com/ToufickShaikh"><img src="https://img.shields.io/github/followers/ToufickShaikh?label=Follow&style=social" alt="GitHub Follow"></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/toufickshaikh"><img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   &nbsp;
