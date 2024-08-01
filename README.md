@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Toufick190" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ToufickShaikh" alt="GitHub Streak">
 </p>
 
 ---
