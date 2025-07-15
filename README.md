@@ -6,7 +6,7 @@
 
 <p align="center">
   🎓 Stealthily studying at MGR University<br>
-  🌟 A 18-year-old explorer of web realms and engineering IoT wonders<br>
+  🌟 A 19-year-old explorer of web realms and engineering IoT wonders<br>
   💼 CEO of El Masculino and Developer at Shaikh Tools And Dies
 </p>
 
